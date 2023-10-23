@@ -42,3 +42,12 @@ The following below are screenshots that demonstrates that the code supports C.R
 
 
 
+### Rust Binary
+
+In the parent directory, there is the Rust Binary file. This file can be used to run the entire Rust script. If one were to work with this project locally, and recreate it, you can easily generate a binary file from running ```make release``` in the command line. You can identify that the Rust Binary will properly be generated from the GitHub Actions badge attached to this README.
+
+### Demo Video
+
+
+
+
