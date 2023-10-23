@@ -34,9 +34,11 @@ The following below are screenshots that demonstrates that the code supports C.R
 
 * **Update**
 
+![Alt text](image-1.png)
 
+* **Delete**
 
-
+![Alt text](image-2.png)
 
 
 
