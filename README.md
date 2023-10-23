@@ -25,9 +25,11 @@ As Rust is a personal new language, and one with a lot of moving parts, I used G
 The following below are screenshots that demonstrates that the code supports C.R.U.D operations (Create, Read, Update, Delete). All of them are SQL queries that were successfully executed.
 
 * **Create**
+
 ![image](https://github.com/Ninsta22/Rust-SQLite-Framework/assets/55768636/fc2caea6-34a4-4a21-aafd-ce3e9c098965)
 
 * **Read**
+
 ![image](https://github.com/Ninsta22/Rust-SQLite-Framework/assets/55768636/d63c6ed0-6c3f-4152-90db-f73649b32c93)
 
 * **Update**
