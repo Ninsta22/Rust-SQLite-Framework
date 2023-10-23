@@ -3,7 +3,7 @@
 [![Format](https://github.com/nogibjj/kb545-rust-python-compare/actions/workflows/rustfmt.yml/badge.svg)](https://github.com/nogibjj/kb545-rust-python-compare/actions/workflows/rustfmt.yml)
 [![Tests](https://github.com/nogibjj/kb545-rust-python-compare/actions/workflows/tests.yml/badge.svg)](https://github.com/nogibjj/kb545-rust-python-compare/actions/workflows/tests.yml)
 
-# Rust SQLite CLI with Binay
+# Rust SQLite CLI with Binary
 
 The goal of this project was to create a Rust repository that is able to create an SQLite databse, populate it with any csv document (I elected to work with the standard ```iris.csv``` dataset), and execute any user inputted query. This project is a CLI to maximize ease of use for a user, and allow them to query whatever they want. There is constant error handling and logging implemented for any situation that may arise, and the entire project is wrapped in a Rust Binary file. This project was created while adhering to DevOps principles, and is fully tested, linted, formatted, and built. A deeper explanation of the project, and how to run it, is explained below.
 
