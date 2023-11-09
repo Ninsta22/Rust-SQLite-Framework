@@ -18,9 +18,6 @@ There is testing implemented to determine if the database was properly created, 
 * To run the code, run ```cargo run -- --query "YOUR QUERY HERE"``` (This will install all of the required dependencies before executing)
 * To create the Rust Binary file, run ```make release```
 
-### GitHub Copilot
-As Rust is a personal new language, and one with a lot of moving parts, I used GitHub Copilot to help fill the gaps in knowledge. More specifically, I used GitHub Copilot to explain the (numerous) errors I faced in a simpler manner, so that I could then properly debug them. This sped up the debugging process but a considerable amount, and helped reveal how optimized the Rust language can become. As well, I used Copilot to explain the different parts of functions that ```rusqlite``` required I used for query execution, as there wasn't a great explanation in the crate's documentation. Copilot is slightly limited in its Rust expertise however, so I only limited Copilot use for explaining, and elected to look at Rust documentation to fix any code issues that I faced.
-
 ### CRUD Opeartions
 The following below are screenshots that demonstrates that the code supports C.R.U.D operations (Create, Read, Update, Delete). All of them are SQL queries that were successfully executed.
 
